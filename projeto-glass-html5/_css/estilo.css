@@ -196,6 +196,7 @@ aside#lateral h2{
     font-size: 15pt;
     color: #ffffff;
     padding: 5px;
+    margin-bottom: -1px;
 }
 footer#rodape{
     clear: both;
@@ -204,6 +205,19 @@ footer#rodape{
 footer#rodape p{
     text-align: center;
 }
+video#divulgacao{
+    display: block;
+    position: relative;
+    width: 500px;
+    margin-bottom: 10px;
+}
+video#recente{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 /*
 nav ul li{
     list-style: none;
